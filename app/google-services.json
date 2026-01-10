@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "766378193118",
+    "project_id": "bankapp-7786c",
+    "storage_bucket": "bankapp-7786c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766378193118:android:a2c7a8e651b19d34b2524f",
+        "android_client_info": {
+          "package_name": "com.khadija.bankapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766378193118-5asg5m3i80elv2dagb8m75jrg63h4aj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khadija.bankapp",
+            "certificate_hash": "56db94fff9a4f0f325a497da8168e98134d3d16c"
+          }
+        },
+        {
+          "client_id": "766378193118-lu7l7j8m1ri109oh3eapf1ncf8r2918s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUwFtltlug87IuPnT-L4F-l-a1EZ7vAa0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766378193118-lu7l7j8m1ri109oh3eapf1ncf8r2918s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
