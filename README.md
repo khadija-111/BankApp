@@ -1,4 +1,4 @@
-## Project Structure
+1-# Project Structure
 
 app/
 ├── manifests/
@@ -42,5 +42,27 @@ app/
 │           │   ├── TransferScreen.kt
 │           │   └── TransferViewModel.kt
 
-             
+2-# Technologies Used
 
+- Kotlin
+- Android Studio
+- MVVM Architecture
+- Retrofit (REST API)
+- Room Database
+- SharedPreferences
+- Firebase Authentication
+- Firebase Cloud Messaging (FCM)
+- LiveData / Flow
+- ProGuard / R8
+- MockAPI (Test REST API)
+
+
+3-# Features
+
+- User Authentication (Firebase Authentication)
+- View bank accounts
+- View account balance
+- Transaction history
+- Push notifications for new transactions
+- Offline access using Room database
+- Secure session management
